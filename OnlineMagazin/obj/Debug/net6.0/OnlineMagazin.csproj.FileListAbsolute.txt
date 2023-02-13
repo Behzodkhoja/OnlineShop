@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\bin\Debug\net6.0\OnlineMagazin.exe
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\bin\Debug\net6.0\OnlineMagazin.deps.json
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\bin\Debug\net6.0\OnlineMagazin.runtimeconfig.json
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\bin\Debug\net6.0\OnlineMagazin.dll
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\bin\Debug\net6.0\OnlineMagazin.pdb
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\obj\Debug\net6.0\OnlineMagazin.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\obj\Debug\net6.0\OnlineMagazin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\obj\Debug\net6.0\OnlineMagazin.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\obj\Debug\net6.0\OnlineMagazin.AssemblyInfo.cs
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\obj\Debug\net6.0\OnlineMagazin.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\obj\Debug\net6.0\OnlineMagazin.dll
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\obj\Debug\net6.0\refint\OnlineMagazin.dll
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\obj\Debug\net6.0\OnlineMagazin.pdb
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\obj\Debug\net6.0\OnlineMagazin.genruntimeconfig.cache
+C:\Users\user\Desktop\AsistentDars\Shifoxona\OnlineMagazin\OnlineMagazin\OnlineMagazin\obj\Debug\net6.0\ref\OnlineMagazin.dll
